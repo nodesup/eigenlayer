@@ -2,7 +2,7 @@
   "name": "NodesUP",
   "website": "https://nodesup.pro",
   "description": "NodesUP EigenLayer Node",
-  "logo": "https://github.com/nodesup/eigenlayer/blob/main/nodes.png?raw=true",
+  "logo": "https://raw.githubusercontent.com/nodesup/eigenlayer/main/nodes.png",
   "twitter": "https://twitter.com/nodesUP"
 }
 
